@@ -66,11 +66,7 @@ The dataset includes the following information:
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot below.
-
-![Dashboard](dashboard.png)
-
----
+<img width="1279" height="722" alt="Car Sales Analysis Dashboard Screenshot" src="https://github.com/user-attachments/assets/1c8f4bbc-e9fe-4ca3-a606-6d62e2a0fa3e" />
 
 ## 📁 Repository Structure
 
@@ -102,9 +98,7 @@ Car-Sales-Analysis-Dashboard/
 This dashboard provides an interactive view of car sales data, enabling businesses to monitor KPIs, identify trends, and make informed business decisions using Power BI.
 
 ---
-## Dashboard Preview
 
-<img width="1279" height="722" alt="Car Sales Analysis Dashboard Screenshot" src="https://github.com/user-attachments/assets/1c8f4bbc-e9fe-4ca3-a606-6d62e2a0fa3e" />
 
 
 - LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
