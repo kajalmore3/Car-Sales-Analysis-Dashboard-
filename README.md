@@ -101,5 +101,5 @@ This dashboard provides an interactive view of car sales data, enabling business
 
 
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+- LinkedIn: https://www.linkedin.com/in/kajal-more-2a5556257/
 - GitHub: https://github.com/kajalmore3
